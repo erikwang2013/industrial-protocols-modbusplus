@@ -20,7 +20,7 @@ Schneider Modbus Plus SA85 接口卡、BM85 桥接模块
 
 ## 兼容框架
 
-Laravel / Webman / Hyperf / ThinkPHP / Yii2 / Plain PHP
+Laravel / Webman / Hyperf / ThinkPHP / Yii2 / Yii3 / Plain PHP
 
 ## 系统要求
 
